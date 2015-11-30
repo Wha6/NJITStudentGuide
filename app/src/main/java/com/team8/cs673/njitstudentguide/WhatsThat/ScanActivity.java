@@ -107,6 +107,9 @@ public class ScanActivity extends Activity implements AutoScannerSession.Listene
             case "4":
                 tv.setText("Kupfrian Hall");
                 break;
+            case "5":
+                tv.setText("GITC");
+                break;
         }
 
          //   tv.setText(result.getValue());
